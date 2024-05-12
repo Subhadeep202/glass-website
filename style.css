@@ -44,6 +44,7 @@ main {
   border-radius: 2rem;
   z-index: 2;
   backdrop-filter: blur(2rem);
+  -webkit-backdrop-filter: blur(2rem);
   display: flex;
 }
 .circle1,
